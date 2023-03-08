@@ -12,6 +12,8 @@ I am studying Krita and GIMP to see if they are useful or not for creating textu
 
 ## Coffee Cup
 
+I have got that Krita can generate normal maps as well.
+
 - [Coffee Cup](./krita/cup)
 
 <img src="./krita/cup/Camera1.png" width=500>
