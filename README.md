@@ -10,6 +10,14 @@ I am studying Krita and GIMP to see if they are useful or not for creating textu
 
 <img src="./krita/monkey/ScreenShot.png" width=500>
 
+## Coffee Cup
+
+- [Coffee Cup](./krita/cup)
+
+<img src="./krita/cup/Camera1.png" width=500>
+
+<img src="./krita/cup/Camera2.png" width=500>
+
 ## GIMP
 
 - [Brick](./gimp/brick)
