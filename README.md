@@ -2,8 +2,9 @@
 
 ## Krita
 
+- [Monkey](./krita/monkey)
 
 ## GIMP
 
-- [Brick](./brick)
-- [Circuit](./circuit)
+- [Brick](./gimp/brick)
+- [Circuit](./gimp/circuit)
