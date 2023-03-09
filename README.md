@@ -24,5 +24,15 @@ I have got that Krita can generate normal maps as well.
 
 ## GIMP
 
+## Coffee Cup
+
+- [Coffee Cup](./gimp/cup)
+
+<img src="./gimp/cup/Camera1.png" width=500>
+
+<img src="./gimp/cup/Camera2.png" width=500>
+
+## Others
+
 - [Brick](./gimp/brick)
 - [Circuit](./gimp/circuit)
