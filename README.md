@@ -1,6 +1,22 @@
-# Krita GIMP Study
+# Krita and GIMP
 
 ## Krita
+
+### Non-AI-generated 2D art with Wacom One
+
+(Work in progress)
+
+- [Tokyo Disney Sea](./krita/DisneySea)
+
+### AI-generated Coloring Books
+
+I used AUTOMATIC1111/StableDiffusion to generate a French town line art in Edouard Manet's style, then used Krita for coloring.
+
+<img src="./krita/generative_ai/french_town/00010-3710837574.jpg" width=500>
+
+- [French town](./krita/generative_ai/french_town)
+
+### Suzanne (Blender)
 
 - [Monkey](./krita/monkey)
 
@@ -17,14 +33,6 @@ I have got that Krita can generate normal maps as well.
 <img src="./krita/cup/Camera1.png" width=500>
 
 <img src="./krita/cup/Camera2.png" width=500>
-
-### AI-generated Coloring Books
-
-I used AUTOMATIC1111/StableDiffusion to generate a French town line art in Edouard Manet's style, then used Krita for coloring.
-
-<img src="./krita/generative_ai/french_town/00010-3710837574.jpg" width=500>
-
-- [French town](./krita/generative_ai/french_town)
 
 ## GIMP
 
