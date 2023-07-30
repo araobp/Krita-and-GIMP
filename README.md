@@ -8,6 +8,8 @@ Although image generation AI is becoming popular, I am becoming interested in ha
 
 (Work in progress)
 
+I visited Tokyo Disney Sea this summer, and I took a lot of pictures there. Let's make line arts from a few of those pictures, and color them.
+
 - [Tokyo Disney Sea](./krita/DisneySea)
 
 ### AI-generated Coloring Books
