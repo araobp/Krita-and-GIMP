@@ -1,6 +1,6 @@
 # Krita and GIMP
 
-Although image generation AI is becoming popular, I am becoming interested in hand drawing.
+Although image generation AI is becoming popular, I am becoming interested in hand drawing to enjoy being human.
 
 ## Krita
 
