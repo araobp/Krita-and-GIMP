@@ -12,7 +12,7 @@ Although image generation AI is becoming popular, I am becoming interested in ha
 
 ### AI-generated Coloring Books
 
-I used AUTOMATIC1111/StableDiffusion to generate a French town line art in Edouard Manet's style, then used Krita with Wacom One for coloring.
+I used AUTOMATIC1111/StableDiffusion to generate a French town line art in Edouard Manet's style, then used Krita with Wacom One for coloring. This drawing is not so interesting, just an experiment.
 
 <img src="./krita/generative_ai/french_town/00010-3710837574.jpg" width=500>
 
