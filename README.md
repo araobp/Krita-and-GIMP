@@ -1,5 +1,7 @@
 # Krita and GIMP
 
+Although image generation AI is becoming popular, I am becoming interested in hand drawing.
+
 ## Krita
 
 ### Non-AI-generated 2D art with Wacom One
