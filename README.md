@@ -8,7 +8,7 @@ Although image generation AI is becoming popular, I am becoming interested in ha
 
 <img src="./krita/DisneySea/paint1.png" width=500>
 
-I visited Tokyo Disney Sea this summer, and I took a lot of pictures there. Let's make line arts from one of those pictures, and color them.
+I visited Tokyo Disney Sea this summer, and I took a lot of pictures there. Let's make line arts from one of those pictures and color it with Wacom One.
 
 - [Tokyo Disney Sea](./krita/DisneySea)
 
