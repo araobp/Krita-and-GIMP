@@ -8,6 +8,8 @@ Although image generation AI is becoming popular, I am becoming interested in ha
 
 (Work in progress)
 
+<img src="./krita/DisneySea/IMG_0142_WaterColor.png" width=500>
+
 I visited Tokyo Disney Sea this summer, and I took a lot of pictures there. Let's make line arts from a few of those pictures, and color them.
 
 - [Tokyo Disney Sea](./krita/DisneySea)
