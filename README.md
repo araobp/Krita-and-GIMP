@@ -48,6 +48,8 @@ I have got that Krita can generate normal maps as well.
 
 ### Texture
 
+Reference: [How to make texture maps in GIMP](https://youtu.be/Bijp0xX96Ts)
+
 - [Platform](./gimp/platform) (Work in progress)
 
 ### Others
