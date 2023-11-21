@@ -46,12 +46,6 @@ I have got that Krita can generate normal maps as well.
 
 <img src="./gimp/cup/Camera2.png" width=500>
 
-### Texture
-
-Reference: [How to make texture maps in GIMP](https://youtu.be/Bijp0xX96Ts)
-
-- [Platform](./gimp/platform) (Work in progress)
-
 ### Others
 
 - [Brick](./gimp/brick)
