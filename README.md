@@ -46,6 +46,10 @@ I have got that Krita can generate normal maps as well.
 
 <img src="./gimp/cup/Camera2.png" width=500>
 
+### Texture
+
+- [Platform](./gimp/platform) (Work in progress)
+
 ### Others
 
 - [Brick](./gimp/brick)
