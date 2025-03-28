@@ -1,16 +1,12 @@
 # Krita and GIMP
 
-Although image generation AI is becoming popular, I am becoming interested in hand drawing to enjoy being human.
-
 ## Krita
 
 ### Non-AI-generated 2D art with Wacom One
 
-(Work in progress)
+<img src="./krita/DisneySea/paint1.png" width=500>
 
-<img src="./krita/DisneySea/IMG_0142_WaterColor.png" width=500>
-
-I visited Tokyo Disney Sea this summer, and I took a lot of pictures there. Let's make line arts from a few of those pictures, and color them.
+I visited Tokyo Disney Sea this summer, and I took a lot of pictures there. Let's make line arts from one of those pictures and color it with Wacom One.
 
 - [Tokyo Disney Sea](./krita/DisneySea)
 
